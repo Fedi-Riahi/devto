@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      CI/CD Pipeline 
+      CI/CD Pipeline  Test
     </div>
   );
 }
